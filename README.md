@@ -1,2 +1,2 @@
 # curator-example
-Zookeeper客户端Curator使用
+Zookeeper客户端Curator使用例子
